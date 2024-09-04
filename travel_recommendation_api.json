@@ -1,0 +1,80 @@
+{
+    "Paesi": [
+      {
+        "id": 1,
+        "nome": "Australia",
+        "città": [
+          {
+            "nome": "Sydney, Australia",
+            "imageUrl": "inserisci_la_tua_immagine_per_sydney.jpg",
+            "description": "Una città vivace, nota per i suoi monumenti iconici come la Sydney Opera House e il Sydney Harbour Bridge."
+          },
+          {
+            "nome": "Melbourne, Australia",
+            "imageUrl": "inserisci_la_tua_immagine_per_melbourne.jpg",
+            "description": "Un centro culturale famoso per la sua arte, il suo cibo e i suoi quartieri eterogenei."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "nome": "Giappone",
+        "città": [
+          {
+            "nome": "Tokyo, Giappone",
+            "imageUrl": "inserisci_la_tua_immagine_per_tokyo.jpg",
+            "description": "Una metropoli vivace che fonde tradizione e modernità, famosa per i suoi ciliegi in fiore e la sua ricca cultura."
+          },
+          {
+            "nome": "Kyoto, Giappone",
+            "imageUrl": "inserisci_la_tua_immagine_per_kyoto.jpg",
+            "description": "Nota per i suoi templi storici, i giardini e le tradizionali case da tè."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "nome": "Brasile",
+        "città": [
+          {
+            "nome": "Rio de Janeiro, Brasile",
+            "imageUrl": "inserisci_la_tua_immagine_per_rio.jpg",
+            "description": "Una città vivace, nota per le sue splendide spiagge, i vivaci festeggiamenti del carnevale e i monumenti iconici."
+          },
+          {
+            "nome": "San Paolo, Brasile",
+            "imageUrl": "inserisci_la_tua_immagine_per_sao-paulo.jpg",
+            "description": "Il polo finanziario con una cultura e un'arte diversificate e una vivace vita notturna."
+          }
+        ]
+      }
+    ],
+    "templi": [
+      {
+        "id": 1,
+        "nome": "Angkor Wat, Cambogia",
+        "imageUrl": "inserisci_la_tua_immagine_per_angkor-wat.jpg",
+        "description": "Un sito patrimonio dell'umanità UNESCO e il più grande monumento religioso del mondo."
+      },
+      {
+        "id": 2,
+        "nome": "Taj Mahal, India",
+        "imageUrl": "inserisci_la_tua_immagine_per_taj-mahal.jpg",
+        "description": "Un simbolo iconico dell'amore e un capolavoro dell'architettura Mughal."
+      }
+    ],
+    "spiagge": [
+      {
+        "id": 1,
+        "nome": "Bora Bora, Polinesia Francese",
+        "imageUrl": "inserisci_la_tua_immagine_per_bora-bora.jpg",
+        "description": "Un'isola nota per le sue splendide acque turchesi e i lussuosi bungalow sull'acqua."
+      },
+      {
+        "id": 2,
+        "nome": "Spiaggia di Copacabana, Brasile",
+        "imageUrl": "inserisci_la_tua_immagine_per_copacabana.jpg",
+        "description": "Una famosa spiaggia di Rio de Janeiro, in Brasile, con un'atmosfera vivace e viste panoramiche."
+      }
+    ]
+  }
